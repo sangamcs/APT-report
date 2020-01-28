@@ -1,0 +1,37 @@
+d0e74da12c5e8d35f6db1ae0c60748b7
+
+service.exe — 01e4391421d56698bcaa1f3c05bd9818
+
+srv.dat — ede89b446d8703dd13d26168e8d58865
+
+<;MalwareFolder>;\{75f61ded-9e15-3af2-2939-ab9f8e94124f}
+
+<;MalwareFolder>;\{521f596c-369c-21dd-f55e-4029ed9e2092}
+
+<;MalwareFolder>;\{75f61ded-9e15-3af2-2939-ab9f8e94124f}\x<;HexCharacters>;.tmp
+
+Example: C:\<;MalwareFolder>;\{75f61ded-9e15-3af2-2939-ab9f8e94124f}\x47550c0306718371.tmp
+
+<;MalwareFolder>;\{521f596c-369c-21dd-f55e-4029ed9e2092}\x<;HexCharacters>;.tmp
+
+Example: C:\<MalwareFolder>\{521f596c-369c-21dd-f55e-4029ed9e2092}\xc6b2e770306718061.tmp
+
+01e4391421d56698bcaa1f3c05bd9818 (TREKX RAT)
+
+cf7d3e9ca78ab23929e94215d871bd51 (TREKX RAT)
+
+ede89b446d8703dd13d26168e8d58865 (TREKX Config File)
+
+7c08601341888b413779a3b33d8bf6dc (TREKX Config File)
+
+d0e74da12c5e8d35f6db1ae0c60748b7 (Custom Mimikatz)
+
+405506980d6057a0b1c756e3c67641a0 (Data exfiltration tool)
+
+ade5518c61a620c5e3b226ce3c84e7af (JSPSpy)
+
+f01a9a2d1e31332ed36c1a4d2839f412 (NBTscan)
+
+7fac7a0843f65135832ac5685750cc6c (ps.exe)
+
+cec4bb3b2f4d2ca2f3468103efb5967d (Remcom)
